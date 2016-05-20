@@ -1,0 +1,1 @@
+insert into case_summary values(case_summary_id)
